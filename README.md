@@ -14,3 +14,6 @@ This tutorial describing about simple CRUD in laravel. Here are the contents:
 2. Templating blade
 3. Database
 4. Integrasi CSS
+
+## Tutorial slides
+I also prepared an explanation of each working step in <a href="https://github.com/atoxcode/laravel-tutorial/tree/master/tutorial%20slides"> tutorial slides </a> folder 

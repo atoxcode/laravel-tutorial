@@ -9,7 +9,7 @@
 
 ## About this tutorial
 
-This tutorial describing about simple CRUD laravel in sozolab members. Here is the content of this tutorial:
+This tutorial describing about simple CRUD in laravel. Here are the contents:
 1. Route Laravel
 2. Templating blade
 3. Database

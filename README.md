@@ -7,13 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About this tutorial
 
-This tutorial describing about simple CRUD in laravel. Here are the contents:
+## About this tutorial
+This tutorial contains about simple CRUD in laravel. Here are the contents:
 1. Route Laravel
 2. Templating blade
 3. Database
 4. Integrasi CSS
 
+
 ## Tutorial slides
-I also prepared an explanation of each working step in <a href="https://github.com/atoxcode/laravel-tutorial/tree/master/tutorial%20slides"> tutorial slides </a> folder 
+I also provide the explanations of each working step in <a href="https://github.com/atoxcode/laravel-tutorial/tree/master/tutorial%20slides"> tutorial slides </a> folder 

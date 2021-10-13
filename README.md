@@ -17,4 +17,4 @@ This tutorial contains about simple CRUD in laravel. Here are the contents:
 
 
 ## Tutorial slides
-I also provide the explanations of each working step in <a href="https://github.com/atoxcode/laravel-tutorial/tree/master/tutorial%20slides"> tutorial slides </a> folder 
+I also provide the explanations of each working step in <a href="https://github.com/atoxcode/laravel-tutorial/tree/master/tutorial%20slides"> tutorial slides </a> folder and the sql in <a href="https://github.com/atoxcode/laravel-tutorial/blob/master/data_sample.sql"> data_sample </a>
